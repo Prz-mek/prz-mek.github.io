@@ -1,1 +1,1 @@
-# prz_mek.github.io
+# prz-mek.github.io

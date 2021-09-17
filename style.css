@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
 :root {
     --dark: #161616;
     --blue: #3296f0;
@@ -11,12 +13,15 @@
 }
 
 body {
+    font-family: 'Lato', sans-serif;
+    color: var(--light);
     background-color: var(--dark);
 }
 
 header {
-    color: var(--light);
-    font-size: 48;
+    width: 100%;
+    font-size: 144;
     text-align: center;
     padding: 20px;
+    border-bottom: 3px solid var(--blue);
 }
